@@ -125,6 +125,11 @@ table {
 /* ============================================================ */
 /* General Appearance */
 /* ============================================================ */
+.logo {
+  margin: auto auto 10px;
+  max-height: 100px;
+}
+
 .container {
   margin: 0 auto;
   position: relative;
